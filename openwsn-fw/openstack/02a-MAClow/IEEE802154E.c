@@ -896,7 +896,7 @@ port_INLINE void activity_ti1ORri1(void) {
     // if the previous slot took too long, we will not be in the right state
     if (ieee154e_vars.state!=S_SLEEP) {
         // log the error
-        openserial_printError(COMPONENT_IEEE802154E,ERR_WRONG_STATE_IN_STARTSLOT,
+        new_openserial_printError(COMPONENT_IEEE802154E,ERR_LEE,
                             (errorparameter_t)ieee154e_vars.state,
                             (errorparameter_t)ieee154e_vars.slotOffset);
         // abort

@@ -28,6 +28,8 @@ class OpenParser(Parser.Parser):
     SERFRAME_MOTE2PC_SNIFFED_PACKET    = ord('P')
     SERFRAME_MOTE2PC_PRINTF            = ord('F')
 
+    SERFRAME_MOTE2PC_LEE               = ord('A')
+
     SERFRAME_PC2MOTE_SETDAGROOT        = ord('R')
     SERFRAME_PC2MOTE_DATA              = ord('D')
     SERFRAME_PC2MOTE_TRIGGERSERIALECHO = ord('S')
@@ -36,6 +38,8 @@ class OpenParser(Parser.Parser):
     SERFRAME_ACTION_YES                = ord('Y')
     SERFRAME_ACTION_NO                 = ord('N')
     SERFRAME_ACTION_TOGGLE             = ord('T')
+
+
     
     def __init__(self):
         

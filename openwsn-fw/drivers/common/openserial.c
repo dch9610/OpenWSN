@@ -184,6 +184,26 @@ owerror_t openserial_printError(
     // openserial_flush called by openserial_printInfoErrorCritical()
 }
 
+owerror_t new_openserial_printError(
+    uint8_t             calling_component,
+    uint8_t             error_code,
+    errorparameter_t    arg1,
+    errorparameter_t    arg2
+) {
+    // toggle error LED
+    leds_error_toggle();
+
+    return openserial_printInfoErrorCritical(
+        SERFRAME_MOTE2PC_ERROR,
+        calling_component,
+        error_code,
+        arg1,
+        arg2
+    );
+
+    // openserial_flush called by openserial_printInfoErrorCritical()
+}
+
 owerror_t openserial_printCritical(
     uint8_t             calling_component,
     uint8_t             error_code,
