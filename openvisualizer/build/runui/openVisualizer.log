@@ -1,0 +1,291 @@
+2022-01-19 11:49:58,411 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\OpenWSN\openvisualizer\build\runui
+    sim         = True
+    simCount    = 3
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-01-19 11:49:58,411 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\OpenWSN\openvisualizer\build\runui
+2022-01-19 11:49:58,411 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\OpenWSN\coap
+	C:\Users\Lee\Desktop\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\OpenWSN\openvisualizer
+	C:\WINDOWS\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-01-19 11:49:58,411 [RPL:INFO] create instance
+2022-01-19 11:49:58,411 [JRC:INFO] create instance
+2022-01-19 11:49:58,503 [SimEngine:INFO] starting
+2022-01-19 11:49:58,517 [BspRadio_1:DEBUG] state=STOPPED
+2022-01-19 11:49:58,517 [MoteHandler_1:INFO] thread initialized
+2022-01-19 11:49:58,517 [BspRadio_2:DEBUG] state=STOPPED
+2022-01-19 11:49:58,517 [MoteHandler_2:INFO] thread initialized
+2022-01-19 11:49:58,517 [BspRadio_3:DEBUG] state=STOPPED
+2022-01-19 11:49:58,517 [MoteHandler_3:INFO] thread initialized
+2022-01-19 11:49:58,517 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,517 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,517 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,533 [ParserInfoErrorCritical:INFO] create instance
+2022-01-19 11:49:58,582 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-01-19 11:49:58,582 [MoteHandler_3:INFO] thread starting
+2022-01-19 11:49:58,582 [ParserInfoErrorCritical:INFO] 3 [OPENWSN] booted
+2022-01-19 11:49:58,582 [MoteHandler_2:INFO] thread starting
+2022-01-19 11:49:58,582 [ParserInfoErrorCritical:INFO] 2 [OPENWSN] booted
+2022-01-19 11:49:58,582 [MoteHandler_1:INFO] thread starting
+2022-01-19 11:49:58,598 [ParserInfoErrorCritical:INFO] 1 [OPENWSN] booted
+2022-01-19 11:50:25,575 [openVisualizerWeb:INFO] Toggle root status for moteid 0003
+2022-01-19 11:50:25,581 [ParserInfoErrorCritical:ERROR] 3 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-01-19 11:50:25,612 [RPL:INFO] registering DAGroot 14-15-92-cc-00-00-00-03
+2022-01-19 11:50:26,239 [ParserInfoErrorCritical:INFO] 2 [IEEE802154E] synchronized at slotOffset 0
+2022-01-19 11:50:26,842 [ParserInfoErrorCritical:INFO] 2 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-01-19 11:50:48,346 [ParserInfoErrorCritical:INFO] 1 [IEEE802154E] synchronized at slotOffset 0
+2022-01-19 11:50:48,872 [ParserInfoErrorCritical:INFO] 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-01-19 11:51:45,380 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:46,400 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:47,390 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:48,388 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:49,967 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:50,993 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:51,979 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:53,009 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-19 11:51:54,288 [openLbr:ERROR] no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+2022-01-19 11:51:59,141 [openLbr:ERROR] no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+2022-01-19 11:52:00,686 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-01-19 11:52:00,701 [openLbr:ERROR] no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+2022-01-20 10:01:39,099 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer\build\runui
+    sim         = True
+    simCount    = 3
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-01-20 10:01:39,099 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer\build\runui
+2022-01-20 10:01:39,099 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\OpenWSN - 원본\coap
+	C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer\bin
+	C:\Users\Lee\Desktop\OpenWSN - 원본\openvisualizer
+	C:\WINDOWS\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-01-20 10:01:39,099 [RPL:INFO] create instance
+2022-01-20 10:01:39,099 [JRC:INFO] create instance
+2022-01-20 10:01:39,168 [SimEngine:INFO] starting
+2022-01-20 10:01:39,190 [BspRadio_1:DEBUG] state=STOPPED
+2022-01-20 10:01:39,190 [MoteHandler_1:INFO] thread initialized
+2022-01-20 10:01:39,190 [BspRadio_2:DEBUG] state=STOPPED
+2022-01-20 10:01:39,190 [MoteHandler_2:INFO] thread initialized
+2022-01-20 10:01:39,190 [BspRadio_3:DEBUG] state=STOPPED
+2022-01-20 10:01:39,190 [MoteHandler_3:INFO] thread initialized
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,201 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,210 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,210 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,210 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:01:39,272 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-01-20 10:01:39,272 [MoteHandler_3:INFO] thread starting
+2022-01-20 10:01:39,286 [ParserInfoErrorCritical:INFO] 3 [OPENWSN] booted
+2022-01-20 10:01:39,288 [MoteHandler_2:INFO] thread starting
+2022-01-20 10:01:39,290 [ParserInfoErrorCritical:INFO] 2 [OPENWSN] booted
+2022-01-20 10:01:39,290 [MoteHandler_1:INFO] thread starting
+2022-01-20 10:01:39,290 [ParserInfoErrorCritical:INFO] 1 [OPENWSN] booted
+2022-01-20 10:06:04,177 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer\build\runui
+    sim         = True
+    simCount    = 3
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-01-20 10:06:04,177 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer\build\runui
+2022-01-20 10:06:04,177 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\OpenWSN_Original\coap
+	C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer\bin
+	C:\Users\Lee\Desktop\OpenWSN_Original\openvisualizer
+	C:\WINDOWS\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-01-20 10:06:04,177 [RPL:INFO] create instance
+2022-01-20 10:06:04,177 [JRC:INFO] create instance
+2022-01-20 10:06:04,351 [SimEngine:INFO] starting
+2022-01-20 10:06:04,388 [BspRadio_1:DEBUG] state=STOPPED
+2022-01-20 10:06:04,388 [MoteHandler_1:INFO] thread initialized
+2022-01-20 10:06:04,391 [BspRadio_2:DEBUG] state=STOPPED
+2022-01-20 10:06:04,391 [MoteHandler_2:INFO] thread initialized
+2022-01-20 10:06:04,394 [BspRadio_3:DEBUG] state=STOPPED
+2022-01-20 10:06:04,394 [MoteHandler_3:INFO] thread initialized
+2022-01-20 10:06:04,400 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,400 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,400 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,403 [ParserInfoErrorCritical:INFO] create instance
+2022-01-20 10:06:04,450 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-01-20 10:06:04,450 [MoteHandler_3:INFO] thread starting
+2022-01-20 10:06:04,450 [ParserInfoErrorCritical:INFO] 3 [OPENWSN] booted
+2022-01-20 10:06:04,450 [MoteHandler_2:INFO] thread starting
+2022-01-20 10:06:04,450 [ParserInfoErrorCritical:INFO] 2 [OPENWSN] booted
+2022-01-20 10:06:04,466 [MoteHandler_1:INFO] thread starting
+2022-01-20 10:06:04,466 [ParserInfoErrorCritical:INFO] 1 [OPENWSN] booted
+2022-01-20 10:06:24,786 [openVisualizerWeb:INFO] Toggle root status for moteid 0003
+2022-01-20 10:06:24,792 [ParserInfoErrorCritical:ERROR] 3 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-01-20 10:06:24,826 [RPL:INFO] registering DAGroot 14-15-92-cc-00-00-00-03
+2022-01-20 10:06:27,065 [ParserInfoErrorCritical:INFO] 2 [IEEE802154E] synchronized at slotOffset 0
+2022-01-20 10:06:27,845 [ParserInfoErrorCritical:INFO] 2 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-01-20 10:06:29,730 [ParserInfoErrorCritical:INFO] 1 [IEEE802154E] synchronized at slotOffset 0
+2022-01-20 10:06:30,680 [ParserInfoErrorCritical:INFO] 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-01-20 10:07:00,272 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:01,283 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:02,286 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:03,246 [ParserInfoErrorCritical:INFO] 1 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:04,532 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:05,519 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:06,542 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:07,569 [ParserInfoErrorCritical:INFO] 2 [ICMPv6ECHO] received an echo request
+2022-01-20 10:07:24,703 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-01-20 10:07:24,703 [openLbr:ERROR] no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+2022-02-25 10:28:21,117 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    sim         = True
+    simCount    = 3
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-02-25 10:28:21,117 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+2022-02-25 10:28:21,117 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\coap
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\bin
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-02-25 10:28:21,117 [RPL:INFO] create instance
+2022-02-25 10:28:21,117 [JRC:INFO] create instance
+2022-02-25 10:28:21,184 [SimEngine:INFO] starting
+2022-02-25 10:28:21,188 [BspRadio_1:DEBUG] state=STOPPED
+2022-02-25 10:28:21,190 [MoteHandler_1:INFO] thread initialized
+2022-02-25 10:28:21,190 [BspRadio_2:DEBUG] state=STOPPED
+2022-02-25 10:28:21,190 [MoteHandler_2:INFO] thread initialized
+2022-02-25 10:28:21,190 [BspRadio_3:DEBUG] state=STOPPED
+2022-02-25 10:28:21,191 [MoteHandler_3:INFO] thread initialized
+2022-02-25 10:28:21,196 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,197 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,197 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,201 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,201 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,201 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,206 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,207 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,207 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:28:21,266 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-02-25 10:28:21,266 [MoteHandler_3:INFO] thread starting
+2022-02-25 10:28:21,267 [ParserInfoErrorCritical:INFO] 3 [OPENWSN] booted
+2022-02-25 10:28:21,270 [MoteHandler_2:INFO] thread starting
+2022-02-25 10:28:21,273 [ParserInfoErrorCritical:INFO] 2 [OPENWSN] booted
+2022-02-25 10:28:21,276 [MoteHandler_1:INFO] thread starting
+2022-02-25 10:28:21,278 [ParserInfoErrorCritical:INFO] 1 [OPENWSN] booted
+2022-02-25 10:28:43,127 [openVisualizerWeb:INFO] Toggle root status for moteid 0002
+2022-02-25 10:28:43,131 [ParserInfoErrorCritical:ERROR] 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-02-25 10:28:43,147 [RPL:INFO] registering DAGroot 14-15-92-cc-00-00-00-02
+2022-02-25 10:28:44,308 [ParserInfoErrorCritical:INFO] 3 [IEEE802154E] synchronized at slotOffset 0
+2022-02-25 10:28:44,858 [ParserInfoErrorCritical:INFO] 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-02-25 10:28:47,851 [ParserInfoErrorCritical:INFO] 1 [IEEE802154E] synchronized at slotOffset 0
+2022-02-25 10:28:48,233 [ParserInfoErrorCritical:INFO] 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-02-25 10:29:11,075 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-02-25 10:50:56,861 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-02-25 10:50:56,861 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\build\runui
+2022-02-25 10:50:56,861 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\coap
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer\bin
+	C:\Users\Lee\Desktop\11\OpenWSN_Original\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-02-25 10:50:56,862 [RPL:INFO] create instance
+2022-02-25 10:50:56,862 [JRC:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,309 [ParserInfoErrorCritical:INFO] create instance
+2022-02-25 10:51:00,362 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-02-25 10:51:06,713 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-02-25 10:51:06,753 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-02-25 10:51:07,391 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-02-25 10:51:08,167 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-02-25 10:51:10,961 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-02-25 10:51:10,963 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-02-25 10:51:12,244 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -6 ticks (code loc. 1)
+2022-02-25 10:51:21,743 [openVisualizerApp:INFO] Closing OpenVisualizer
