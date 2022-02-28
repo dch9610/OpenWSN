@@ -573,3 +573,45 @@
 2022-02-25 13:11:00,788 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
 2022-02-25 13:11:02,795 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
 2022-02-25 13:11:14,344 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-02-28 14:29:15,551 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-02-28 14:29:15,551 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-02-28 14:29:15,551 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-02-28 14:29:15,551 [RPL:INFO] create instance
+2022-02-28 14:29:15,551 [JRC:INFO] create instance
+2022-02-28 14:29:19,042 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,042 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,042 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,046 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,046 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,046 [ParserInfoErrorCritical:INFO] create instance
+2022-02-28 14:29:19,108 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-02-28 14:29:23,233 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-02-28 14:29:23,269 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-02-28 14:29:23,917 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-02-28 14:29:24,427 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-02-28 14:29:27,730 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-02-28 14:29:27,730 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-02-28 14:29:57,157 [openVisualizerApp:INFO] Closing OpenVisualizer

@@ -173,6 +173,7 @@ enum {
    COMPONENT_CINFRARED                 = 0x29,
 
    COMPONENT_LEE                       = 0x2a,
+   COMPONENT_SUN                       = 0x2b,
 };
 
 /**
