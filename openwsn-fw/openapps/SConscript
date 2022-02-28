@@ -48,7 +48,9 @@ additionalHeaderFiles = [
 if localEnv['apps']:
     userApps  = localEnv['apps'].split(',')
 else:
-    userApps  = ['uinject']
+    # userApps  = ['uinject']
+    # userApps  = ['lee']
+    userApps  = ['sun']
 
 # union of default and additional apps (without duplicates)
 apps      = ['opencoap']

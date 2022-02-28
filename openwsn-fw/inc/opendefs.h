@@ -171,6 +171,9 @@ enum {
    COMPONENT_CJOIN                     = 0x27,
    COMPONENT_OPENOSCOAP                = 0x28,
    COMPONENT_CINFRARED                 = 0x29,
+
+   COMPONENT_LEE                       = 0x2a,
+   COMPONENT_SUN                       = 0x2b,
 };
 
 /**

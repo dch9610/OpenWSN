@@ -238,6 +238,10 @@ struct OpenMote {
    uecho_vars_t         uecho_vars;
    uinject_vars_t       uinject_vars;
    userialbridge_vars_t userialbridge_vars;
+   
+   
+   lee_vars_t       lee_vars;
+   sun_vars_t       sun_vars;
 };
 
 #endif
