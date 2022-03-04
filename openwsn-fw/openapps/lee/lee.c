@@ -148,10 +148,11 @@ void lee_task_cb(void) {
     // pkt->payload[3] = asnArray[3];
     // pkt->payload[4] = asnArray[4];
 
-    packetfunctions_reserveHeaderSize(pkt,3);
+    packetfunctions_reserveHeaderSize(pkt,4);
     pkt->payload[0] = 'L';
     pkt->payload[1] = 'e';
     pkt->payload[2] = 'e';
+    pkt->payload[3] = 'C';
 
     if ((openudp_send(pkt))==E_FAIL) {
         openqueue_freePacketBuffer(pkt);
