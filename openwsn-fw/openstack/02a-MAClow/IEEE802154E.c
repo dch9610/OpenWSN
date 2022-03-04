@@ -442,6 +442,7 @@ void ieee154e_startOfFrame(PORT_TIMER_WIDTH capturedTime) {
                 openserial_printError(COMPONENT_IEEE802154E,ERR_WRONG_STATE_IN_NEWSLOT,
                                   (errorparameter_t)ieee154e_vars.state,
                                   (errorparameter_t)ieee154e_vars.slotOffset);
+                
                 // abort
                 endSlot();
                 break;
