@@ -141,9 +141,6 @@ owerror_t openserial_printError(
     errorparameter_t    arg2
 );
 
-owerror_t test(
-    int arg1
-);
 
 owerror_t openserial_printCritical(
     uint8_t             calling_component,

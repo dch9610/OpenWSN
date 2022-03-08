@@ -219,7 +219,7 @@ void msf_timer_clear_task(void){
     );
 }
 
-//=========================== private =========================================
+//=========================== private ===========================
 
 void msf_trigger6pAdd(void){
     open_addr_t    neighbor;

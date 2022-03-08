@@ -826,3 +826,741 @@ NameError: global name 'output1' is not defined
 2022-03-04 19:38:46,875 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -6 ticks (code loc. 1)
 2022-03-04 19:38:47,000 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 10 ticks (code loc. 0)
 2022-03-04 19:38:47,000 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-07 21:03:12,036 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-07 21:03:12,036 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-07 21:03:12,036 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-07 21:03:12,036 [RPL:INFO] create instance
+2022-03-07 21:03:12,036 [JRC:INFO] create instance
+2022-03-07 21:03:15,546 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,548 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,548 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,552 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,552 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,552 [ParserInfoErrorCritical:INFO] create instance
+2022-03-07 21:03:15,601 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-07 21:03:20,207 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-07 21:03:20,240 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-07 21:03:20,322 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-07 21:03:21,785 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-07 21:03:22,759 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 7 ticks (code loc. 0)
+2022-03-07 21:03:22,760 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-07 21:10:07,551 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 14:35:14,530 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 14:35:14,530 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 14:35:14,530 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 14:35:14,530 [RPL:INFO] create instance
+2022-03-08 14:35:14,530 [JRC:INFO] create instance
+2022-03-08 14:35:17,023 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,025 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,026 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,032 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,032 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,032 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:35:17,114 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 14:35:19,979 [openVisualizerWeb:INFO] Toggle root status for moteid COM3
+2022-03-08 14:37:44,733 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 14:38:07,088 [openVisualizerWeb:INFO] Toggle root status for moteid COM5
+2022-03-08 14:38:15,569 [openVisualizerWeb:INFO] Toggle root status for moteid c486
+2022-03-08 14:38:15,598 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 14:38:15,966 [RPL:INFO] registering DAGroot 00-12-4b-00-04-22-c4-86
+2022-03-08 14:38:18,194 [ParserInfoErrorCritical:INFO] 5ea8 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 14:38:18,914 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] large timeCorr.: 7 ticks (code loc. 0)
+2022-03-08 14:38:18,917 [ParserInfoErrorCritical:INFO] 5ea8 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 14:39:25,940 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 14:41:46,835 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 14:41:46,835 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 14:41:46,835 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 14:41:46,836 [RPL:INFO] create instance
+2022-03-08 14:41:46,836 [JRC:INFO] create instance
+2022-03-08 14:41:50,275 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:41:50,276 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:41:50,276 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:41:50,280 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:41:50,280 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:41:50,280 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:44:58,683 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 14:44:58,683 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 14:44:58,683 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 14:44:58,683 [RPL:INFO] create instance
+2022-03-08 14:44:58,684 [JRC:INFO] create instance
+2022-03-08 14:45:02,141 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,142 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,142 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,148 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,148 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,148 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 14:45:02,207 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 14:45:57,642 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 14:45:57,671 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 14:45:58,405 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 14:46:00,798 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 14:46:02,269 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-08 14:46:02,282 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 14:46:20,698 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:04:19,703 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:04:19,703 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:04:19,703 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:04:19,704 [RPL:INFO] create instance
+2022-03-08 15:04:19,704 [JRC:INFO] create instance
+2022-03-08 15:04:22,145 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,145 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,145 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,151 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,151 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,151 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:04:22,213 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:04:26,503 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:04:26,533 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:04:26,549 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:04:26,648 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:04:34,519 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -6 ticks (code loc. 1)
+2022-03-08 15:04:35,101 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 11 ticks (code loc. 0)
+2022-03-08 15:04:35,101 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:06:21,418 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:08:40,938 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:08:40,940 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:08:40,940 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:08:40,940 [RPL:INFO] create instance
+2022-03-08 15:08:40,940 [JRC:INFO] create instance
+2022-03-08 15:08:44,341 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,341 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,341 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,345 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,345 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,346 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:08:44,388 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:08:50,404 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:08:50,440 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:08:50,440 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 100 arg1=0 arg2=0
+2022-03-08 15:08:51,255 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:08:51,339 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:08:55,812 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-08 15:08:55,826 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:09:04,543 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:18:41,604 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:18:41,604 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:18:41,604 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:18:41,604 [RPL:INFO] create instance
+2022-03-08 15:18:41,605 [JRC:INFO] create instance
+2022-03-08 15:18:45,105 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,107 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,107 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,111 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,111 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,111 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:18:45,155 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:18:52,953 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:18:52,977 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:18:52,979 [ParserInfoErrorCritical:INFO] 5ea8 [unknown component code 44] unknown error 100 arg1=0 arg2=0
+2022-03-08 15:18:53,364 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:18:54,178 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:19:26,082 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -6 ticks (code loc. 1)
+2022-03-08 15:19:26,210 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 10 ticks (code loc. 0)
+2022-03-08 15:19:26,210 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:19:31,905 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:23:43,312 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:23:43,312 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:23:43,312 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:23:43,312 [RPL:INFO] create instance
+2022-03-08 15:23:43,312 [JRC:INFO] create instance
+2022-03-08 15:23:46,778 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,779 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,779 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,783 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,783 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,785 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:23:46,839 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:23:52,667 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:23:52,698 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:23:52,700 [ParserInfoErrorCritical:INFO] 5ea8 [unknown component code 44] Test 0 // 0
+2022-03-08 15:23:52,822 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:23:53,563 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:24:03,153 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 7 ticks (code loc. 0)
+2022-03-08 15:24:03,154 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:24:04,163 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -7 ticks (code loc. 1)
+2022-03-08 15:26:37,463 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:29:08,421 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:29:08,421 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:29:08,421 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:29:08,421 [RPL:INFO] create instance
+2022-03-08 15:29:08,421 [JRC:INFO] create instance
+2022-03-08 15:29:10,848 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,849 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,851 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,855 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,855 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,857 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:29:10,898 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:29:26,986 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:29:27,016 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:29:27,523 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:29:47,838 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:31:26,700 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 15
+2022-03-08 15:31:26,703 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:31:27,249 [RPL:INFO] unregistering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:32:00,681 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:37:27,913 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:37:27,913 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:37:27,914 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:37:27,914 [RPL:INFO] create instance
+2022-03-08 15:37:27,914 [JRC:INFO] create instance
+2022-03-08 15:37:30,371 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:37:30,371 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:37:30,371 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:37:30,377 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:37:30,377 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:37:30,377 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:38:19,068 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 15:38:20,522 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 15:38:26,730 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 15:38:36,875 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 15:43:18,822 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:43:18,822 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:43:18,822 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:43:18,822 [RPL:INFO] create instance
+2022-03-08 15:43:18,822 [JRC:INFO] create instance
+2022-03-08 15:43:22,246 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,246 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,246 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,252 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,252 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,253 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:43:22,296 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:43:25,684 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 15:43:35,407 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:43:35,440 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:43:35,441 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 1
+2022-03-08 15:43:35,635 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:43:37,388 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:43:40,694 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:45:30,677 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:47:43,282 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:47:43,282 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:47:43,282 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:47:43,282 [RPL:INFO] create instance
+2022-03-08 15:47:43,282 [JRC:INFO] create instance
+2022-03-08 15:47:46,760 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,762 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,762 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,766 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,766 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,766 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:47:46,809 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:47:57,319 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:47:57,349 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:47:57,351 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 328 // 22693
+2022-03-08 15:47:57,869 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:47:58,453 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:48:00,138 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:49:02,148 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 15:54:17,986 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 15:54:17,986 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 15:54:17,986 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 15:54:17,986 [RPL:INFO] create instance
+2022-03-08 15:54:17,986 [JRC:INFO] create instance
+2022-03-08 15:54:21,497 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,499 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,500 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,503 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,503 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,503 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 15:54:21,551 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 15:54:25,438 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 15:54:25,471 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 15:54:25,473 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 41955
+2022-03-08 15:54:25,522 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 15:54:25,849 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 15:54:31,359 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 15:54:44,138 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 16:32:00,755 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 16:32:00,755 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 16:32:00,756 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 16:32:00,756 [RPL:INFO] create instance
+2022-03-08 16:32:00,756 [JRC:INFO] create instance
+2022-03-08 16:32:04,174 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,176 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,177 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,181 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,181 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,181 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:32:04,224 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 16:33:47,789 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:34:08,186 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:35:32,316 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 16:35:32,336 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 16:35:32,338 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 0
+2022-03-08 16:35:32,470 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 16:35:32,770 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 16:35:36,686 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 7 ticks (code loc. 0)
+2022-03-08 16:35:36,688 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 16:35:37,227 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -8 ticks (code loc. 1)
+2022-03-08 16:35:40,140 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 16:44:30,565 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 16:44:30,565 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 16:44:30,565 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 16:44:30,566 [RPL:INFO] create instance
+2022-03-08 16:44:30,566 [JRC:INFO] create instance
+2022-03-08 16:44:34,049 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,051 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,052 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,055 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,056 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,056 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:44:34,118 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 16:44:42,707 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 16:44:42,737 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 16:44:42,739 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 0
+2022-03-08 16:44:43,220 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 16:45:36,342 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 16:45:39,009 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-08 16:45:39,013 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 16:46:48,573 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] wrong state 0 in start of frame, at slotOffset 0
+2022-03-08 16:47:38,290 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 16:49:31,539 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 16:49:31,539 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 16:49:31,539 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 16:49:31,539 [RPL:INFO] create instance
+2022-03-08 16:49:31,539 [JRC:INFO] create instance
+2022-03-08 16:49:35,029 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,030 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,030 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,035 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,036 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,036 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 16:49:35,079 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 16:49:41,367 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:50:19,279 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:50:19,822 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:50:56,270 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:51:58,371 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:52:00,686 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:52:06,609 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:54:44,214 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:54:50,890 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:55:11,650 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:57:39,016 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:58:04,417 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:58:30,072 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 16:58:39,174 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 16:58:39,207 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 16:58:39,207 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 0 // 0
+2022-03-08 16:58:39,417 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 16:58:40,256 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 16:58:40,259 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 5
+2022-03-08 16:58:41,848 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-08 16:58:41,849 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 17:14:10,096 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 2)
+2022-03-08 17:16:27,736 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-08 17:26:43,973 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-08 17:26:43,973 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-08 17:26:43,973 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-08 17:26:43,973 [RPL:INFO] create instance
+2022-03-08 17:26:43,974 [JRC:INFO] create instance
+2022-03-08 17:26:47,403 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,403 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,404 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,408 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,408 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,410 [ParserInfoErrorCritical:INFO] create instance
+2022-03-08 17:26:47,460 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-08 17:27:52,164 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] invalid packet frome radio, length 0 (code location 0)
+2022-03-08 17:28:03,457 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-08 17:28:03,479 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+2022-03-08 17:28:03,480 [ParserInfoErrorCritical:INFO] 5ea8 [ieee154e test: ] Test 1 // 0
+2022-03-08 17:28:04,456 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-08 17:28:05,299 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-08 17:28:05,301 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 5
+2022-03-08 17:28:07,440 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-08 17:28:07,444 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-08 17:30:47,697 [openVisualizerApp:INFO] Closing OpenVisualizer

@@ -205,6 +205,7 @@ class RPL(eventBusClient.eventBusClient):
             if len(source)>8: 
                 source=source[len(source)-8:]
             dao                   = tup[1]
+            
         except IndexError:
             log.warning("DAO too short ({0} bytes), no space for destination and source".format(len(dao)))
             return
@@ -274,9 +275,11 @@ class RPL(eventBusClient.eventBusClient):
         for p in parents:
             output          += ['   {0}:{1}'.format(u.formatIPv6Addr(self.networkPrefix),u.formatIPv6Addr(p))]
         output              += ['- children:']
+        output              += ['-----------']
         for p in children:
             output          += ['   {0}:{1}'.format(u.formatIPv6Addr(self.networkPrefix),u.formatIPv6Addr(p))]
         output               = '\n'.join(output)
+        
         if log.isEnabledFor(logging.DEBUG):
             log.debug(output)
         print output

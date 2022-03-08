@@ -46,6 +46,7 @@ components = {
   39: "CJOIN",
   40: "OPENOSCOAP",
   41: "CINFRARED",
+  44: "ieee154e test: "
 }
 
 errorDescriptions = {
@@ -123,6 +124,7 @@ errorDescriptions = {
   72: "OSCOAP replay protection failed",
   73: "OSCOAP decryption and tag verification failed",
   74: "Aborted join process (code location {0})",
+  75 : "Test {0} // {1}"
 }
 
 sixtop_returncode = {

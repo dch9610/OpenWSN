@@ -161,6 +161,7 @@ void ieee154e_init(void) {
     // radiotimer_start(ieee154e_vars.slotDuration);
     IEEE802154_security_init();
     ieee154e_vars.serialInhibitTimerId = opentimers_create(TIMER_INHIBIT, TASKPRIO_NONE);
+    
 }
 
 //=========================== public ==========================================
@@ -638,7 +639,8 @@ port_INLINE void activity_synchronize_newSlot(void) {
     openserial_inhibitStop();
 }
 
-port_INLINE void activity_synchronize_startOfFrame(PORT_TIMER_WIDTH capturedTime) {
+port_INLINE void 
+activity_synchronize_startOfFrame(PORT_TIMER_WIDTH capturedTime) {
 
     // don't care about packet if I'm not listening
     if (ieee154e_vars.state!=S_SYNCLISTEN) {
@@ -799,6 +801,10 @@ port_INLINE void activity_synchronize_endOfFrame(PORT_TIMER_WIDTH capturedTime) 
                             (errorparameter_t)ieee154e_vars.slotOffset,
                             (errorparameter_t)0);
 
+      openserial_printInfo(COMPONENT_IEEE802154E,ERR_SYNCHRONIZED,
+                            (errorparameter_t)ieee154e_vars.asnOffset,
+                            (errorparameter_t)0);
+
       // send received EB up the stack so RES can update statistics (synchronizing)
       notif_receive(ieee154e_vars.dataReceived);
 
@@ -900,6 +906,14 @@ port_INLINE void activity_ti1ORri1(void) {
         openserial_printError(COMPONENT_IEEE802154E,ERR_WRONG_STATE_IN_STARTSLOT,
                             (errorparameter_t)ieee154e_vars.state,
                             (errorparameter_t)ieee154e_vars.slotOffset);
+
+
+        openserial_printInfo(
+            COMPONENT_TEST,
+            ERR_TEST,
+            ieee154e_vars.slotOffset,            
+            ieee154e_vars.nextActiveSlotOffset
+        );
         // abort
         endSlot();
         return;

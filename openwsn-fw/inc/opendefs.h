@@ -174,6 +174,7 @@ enum {
 
    COMPONENT_LEE                       = 0x2a,
    COMPONENT_SUN                       = 0x2b,
+   COMPONENT_TEST                      = 0x2c,
 };
 
 /**
@@ -266,6 +267,9 @@ enum {
    ERR_REPLAY_FAILED                   = 0x48, // OSCOAP replay protection failed
    ERR_DECRYPTION_FAILED               = 0x49, // OSCOAP decryption and tag verification failed
    ERR_ABORT_JOIN_PROCESS              = 0x4a, // Aborted join process (code location {0})
+
+
+   ERR_TEST                            = 0x4b,
 };
 
 //=========================== typedef =========================================
