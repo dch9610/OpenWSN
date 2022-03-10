@@ -292,6 +292,7 @@ owerror_t schedule_addActiveSlot(
    slotContainer->channelOffset             = channelOffset;
    memcpy(&slotContainer->neighbor,neighbor,sizeof(open_addr_t));
 
+
    // fill that schedule entry with current asn
    ieee154e_getAsn(&(asn[0]));
    slotContainer->lastUsedAsn.bytes0and1 = 256*asn[1]+asn[0];

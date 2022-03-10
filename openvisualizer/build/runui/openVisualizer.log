@@ -616,3 +616,49 @@
 2022-02-25 13:37:41,806 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
 2022-02-25 13:37:42,015 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -8 ticks (code loc. 1)
 2022-02-25 13:38:07,299 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-10 20:14:12,739 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-10 20:14:12,740 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-10 20:14:12,740 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-10 20:14:12,740 [RPL:INFO] create instance
+2022-03-10 20:14:12,740 [JRC:INFO] create instance
+2022-03-10 20:14:16,178 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,180 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,180 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,184 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,184 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,186 [ParserInfoErrorCritical:INFO] create instance
+2022-03-10 20:14:16,236 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-10 20:14:20,561 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-10 20:14:20,568 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 100 arg1=1 arg2=3
+2022-03-10 20:14:20,599 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-10 20:14:20,976 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=3
+2022-03-10 20:14:20,980 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-10 20:14:21,035 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-10 20:14:32,671 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=3
+2022-03-10 20:14:32,864 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=0 arg2=1
+2022-03-10 20:14:32,871 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 100 arg1=0 arg2=2
+2022-03-10 20:14:32,880 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-10 20:14:39,210 [openVisualizerApp:INFO] Closing OpenVisualizer
