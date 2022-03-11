@@ -896,9 +896,7 @@ port_INLINE void activity_ti1ORri1(void) {
     // if the previous slot took too long, we will not be in the right state
     if (ieee154e_vars.state!=S_SLEEP) {
         // log the error
-        openserial_printError(COMPONENT_IEEE802154E,ERR_WRONG_STATE_IN_STARTSLOT,
-                            (errorparameter_t)ieee154e_vars.state,
-                            (errorparameter_t)ieee154e_vars.slotOffset);
+        
         // abort
         endSlot();
         return;
@@ -2405,6 +2403,8 @@ bool isValidEbFormat(OpenQueueEntry_t* pkt, uint16_t* lenIE){
         }
     }
 
+    
+
     if (mlme_ie_found==FALSE){
         // didn't find the MLME payload IE
         return FALSE;
@@ -2454,13 +2454,16 @@ bool isValidEbFormat(OpenQueueEntry_t* pkt, uint16_t* lenIE){
                 break;
             case IEEE802154E_MLME_SLOTFRAME_LINK_IE_SUBID:
                 schedule_setFrameNumber(*((uint8_t*)(pkt->payload)+ptr));       // number of slotframes
-                schedule_setFrameHandle(*((uint8_t*)(pkt->payload)+ptr+1));     // slotframe id
+                schedule_setFrameHandle(*((uint8_t*)(pkt->payload)+ptr+1));     // slotframe id         
+
                 oldFrameLength = schedule_getFrameLength();
                 if (oldFrameLength==0){
                     temp16b  = *((uint8_t*)(pkt->payload+ptr+2));               // slotframes length
                     temp16b |= *((uint8_t*)(pkt->payload+ptr+3))<<8;
                     schedule_setFrameLength(temp16b);
+
                     numlinks = *((uint8_t*)(pkt->payload+ptr+4));               // number of links
+                
 
                     // shared TXRX anycast slot(s)
                     memset(&temp_neighbor,0,sizeof(temp_neighbor));
@@ -2480,6 +2483,14 @@ bool isValidEbFormat(OpenQueueEntry_t* pkt, uint16_t* lenIE){
                             channeloffset, // channel offset
                             &temp_neighbor // neighbor
                         );
+                        
+                        openserial_printInfo(
+                                COMPONENT_CEXAMPLE,
+                                0,
+                                *((uint8_t*)(pkt->payload+ptr+5+5*i)),
+                                *((uint8_t*)(pkt->payload+ptr+5+5*i+2))
+                        );
+                        
                     }
                 }
                 slotframelink_ie_checkPass = TRUE;
