@@ -662,3 +662,1730 @@
 2022-03-10 20:14:32,871 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 100 arg1=0 arg2=2
 2022-03-10 20:14:32,880 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
 2022-03-10 20:14:39,210 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 10:50:27,926 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 10:50:27,926 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 10:50:27,926 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 10:50:27,926 [RPL:INFO] create instance
+2022-03-11 10:50:27,926 [JRC:INFO] create instance
+2022-03-11 10:50:30,359 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,359 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,361 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,365 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,365 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,367 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 10:50:30,417 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 10:50:34,653 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 10:50:34,680 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 10:50:35,147 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 10:50:35,575 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 10:50:35,598 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 10:50:35,599 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 10:50:35,601 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 10:50:35,601 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 10:50:35,601 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 10:50:49,555 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 10:50:49,559 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 10:50:50,578 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -7 ticks (code loc. 1)
+2022-03-11 10:50:52,835 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 12:44:34,367 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 12:44:34,367 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 12:44:34,367 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 12:44:34,367 [RPL:INFO] create instance
+2022-03-11 12:44:34,367 [JRC:INFO] create instance
+2022-03-11 12:44:36,809 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,809 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,811 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,815 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,815 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,815 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:44:36,861 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 12:44:43,785 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 12:44:43,818 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 12:44:44,332 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,334 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,334 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,335 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,335 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 12:44:44,335 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,335 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 12:44:44,336 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:44:44,336 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:44:44,986 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 12:45:01,819 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:45:02,457 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:45:19,960 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:45:20,391 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:45:37,907 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:45:39,584 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:45:57,101 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:45:57,596 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:46:15,112 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:46:15,259 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:46:32,759 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:46:32,904 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:46:50,420 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:46:50,500 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:47:08,017 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:47:09,134 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:47:26,651 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:47:27,066 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:47:44,584 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:47:45,430 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:48:02,946 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:48:03,026 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:48:20,528 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:48:20,608 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:48:38,125 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:48:39,674 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:48:57,176 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:48:57,398 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:49:14,901 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:49:15,474 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:49:32,992 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:49:33,407 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:49:50,924 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:49:51,562 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:50:09,063 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:50:10,055 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:50:27,571 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:50:30,239 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:50:47,753 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:50:47,961 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:51:05,480 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:51:05,687 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:51:16,852 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 12:58:41,855 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 12:58:41,855 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 12:58:41,855 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 12:58:41,855 [RPL:INFO] create instance
+2022-03-11 12:58:41,855 [JRC:INFO] create instance
+2022-03-11 12:58:45,260 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,262 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,262 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,266 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,266 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,267 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 12:58:45,322 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 12:59:39,519 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 12:59:39,549 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 12:59:40,094 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 12:59:40,312 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,315 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,315 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,335 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,336 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,338 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 12:59:40,338 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 12:59:40,338 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 12:59:57,822 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 12:59:57,903 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:00:15,418 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:00:16,680 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:00:34,197 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:00:34,404 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:00:51,921 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:00:52,065 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:01:09,584 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:01:09,647 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:01:21,823 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:02:15,753 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:02:15,753 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:02:15,753 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:02:15,753 [RPL:INFO] create instance
+2022-03-11 13:02:15,753 [JRC:INFO] create instance
+2022-03-11 13:02:19,187 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,187 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,187 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,191 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,191 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,193 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:02:19,236 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:02:25,414 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:02:25,447 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 13:02:25,559 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:02:26,206 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:02:26,213 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:02:26,214 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:02:26,223 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:02:26,223 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 13:02:26,223 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:02:26,223 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:02:43,723 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:02:43,931 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:03:01,448 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:03:03,700 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:03:21,217 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:03:21,632 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:03:39,150 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:03:39,851 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:03:43,154 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:04:49,634 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:04:49,634 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:04:49,634 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:04:49,634 [RPL:INFO] create instance
+2022-03-11 13:04:49,634 [JRC:INFO] create instance
+2022-03-11 13:04:53,121 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,124 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,124 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,128 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,128 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,128 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:04:53,173 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:04:59,081 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:04:59,108 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 13:04:59,184 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 100 arg1=1 arg2=0
+2022-03-11 13:04:59,187 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:04:59,605 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:05:37,490 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 13:05:37,493 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 13:05:45,471 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:05:45,476 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 13:05:45,493 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] got desynchronized at slotOffset 0
+2022-03-11 13:05:45,638 [ParserInfoErrorCritical:INFO] 5ea8 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:05:46,549 [RPL:INFO] unregistering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:05:56,338 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:16:48,585 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:16:48,585 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:16:48,585 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:16:48,586 [RPL:INFO] create instance
+2022-03-11 13:16:48,586 [JRC:INFO] create instance
+2022-03-11 13:16:52,009 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,009 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,009 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,013 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,015 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,016 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:16:52,059 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:16:57,308 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:16:57,338 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 13:16:57,387 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:16:57,542 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:16:57,542 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:57,542 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:57,565 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:57,568 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:57,571 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:16:57,572 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] getData asks for too few bytes, maxNumBytes=7, fill level=7
+2022-03-11 13:16:57,572 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] the input buffer has overflown
+2022-03-11 13:16:57,572 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:16:59,029 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:16:59,030 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:59,032 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:59,032 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:59,033 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:16:59,033 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:00,082 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:00,085 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,088 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,089 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,089 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,089 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:00,831 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:00,832 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,832 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,846 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,846 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:00,848 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:01,535 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:01,538 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:01,540 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:01,549 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:01,553 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:01,556 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:02,651 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:02,651 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:02,667 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:02,670 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:02,671 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:02,673 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:03,562 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:03,565 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,591 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,594 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,596 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,599 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:03,701 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:03,703 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,717 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,719 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,720 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:03,720 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:04,496 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:04,497 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:04,499 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:04,499 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:04,499 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:04,500 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:05,101 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:05,128 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:05,128 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:05,130 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:05,131 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:05,131 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:06,038 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:06,039 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,043 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,046 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,048 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,049 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:06,227 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:17:06,229 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,230 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,243 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,244 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo request
+2022-03-11 13:17:06,246 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:17:06,315 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:19:41,986 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:19:41,986 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:19:41,986 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:19:41,986 [RPL:INFO] create instance
+2022-03-11 13:19:41,986 [JRC:INFO] create instance
+2022-03-11 13:19:45,400 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,401 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,401 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,404 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,405 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,405 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:19:45,447 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:19:49,532 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:19:49,562 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 13:19:50,168 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:19:50,329 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:50,332 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:50,335 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] getData asks for too few bytes, maxNumBytes=7, fill level=7
+2022-03-11 13:19:50,345 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] the input buffer has overflown
+2022-03-11 13:19:50,348 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:19:50,967 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:50,971 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:51,095 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:51,098 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:51,239 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:51,240 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:52,500 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:52,500 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:53,553 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:53,555 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:54,736 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:54,750 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:55,661 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:55,664 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:55,868 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:55,869 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:56,141 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:56,144 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:56,221 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:56,224 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:57,755 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:57,757 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:57,832 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:57,834 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:58,042 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:58,045 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:58,197 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:58,198 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:58,390 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:58,392 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:19:58,740 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:19:58,743 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:20:00,209 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:20:00,210 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:20:01,263 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:20:01,263 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:20:02,029 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:20:02,032 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] received an echo reply
+2022-03-11 13:20:02,601 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:24:46,183 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:24:46,183 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:24:46,183 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:24:46,184 [RPL:INFO] create instance
+2022-03-11 13:24:46,184 [JRC:INFO] create instance
+2022-03-11 13:24:48,614 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,614 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,614 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,618 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,618 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,619 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:24:48,661 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:24:53,302 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:24:53,335 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test
+2022-03-11 13:24:53,400 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:24:54,582 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:54,585 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:24:55,076 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:55,282 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:55,683 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 7 ticks (code loc. 0)
+2022-03-11 13:24:55,687 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 13:24:55,778 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:56,051 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:56,193 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:56,338 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:56,897 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:57,183 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:58,017 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:58,717 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:58,796 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:24:59,773 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:00,615 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:00,757 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:01,029 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:01,526 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:01,940 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:02,085 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:02,645 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:02,720 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:02,931 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:04,674 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:05,033 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:05,167 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:05,653 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:05,726 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:06,007 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:06,430 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:07,059 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:07,266 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:07,545 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:08,043 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:08,105 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:08,601 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:08,746 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:09,161 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:09,368 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:09,515 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:09,927 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:10,565 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:10,770 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:11,269 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:11,819 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:12,802 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:13,289 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:13,434 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:13,786 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:13,999 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:25:14,019 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:56:21,377 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:56:21,377 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:56:21,377 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:56:21,378 [RPL:INFO] create instance
+2022-03-11 13:56:21,378 [JRC:INFO] create instance
+2022-03-11 13:56:24,809 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,811 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,811 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,815 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,816 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,816 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:56:24,858 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:56:31,135 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:56:31,164 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 13:56:31,641 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:31,644 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:56:31,848 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:32,135 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:32,188 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:56:32,200 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:33,749 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:33,812 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:34,035 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:34,163 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:34,371 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:34,723 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:36,207 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:37,244 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:38,026 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:38,730 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:39,848 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:40,759 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:40,904 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:41,667 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:42,308 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:43,200 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:43,424 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:43,984 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:44,463 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:45,022 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:45,101 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:46,364 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:47,688 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:47,976 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:48,040 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:49,381 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:50,851 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:51,329 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:51,473 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:51,552 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:52,032 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:52,176 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:54,346 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:54,553 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:55,112 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:55,546 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:55,960 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:56,519 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:57,220 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:57,780 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:59,601 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:59,743 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:56:59,888 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:57:00,825 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 13:59:05,673 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 13:59:05,673 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 13:59:05,673 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 13:59:05,673 [RPL:INFO] create instance
+2022-03-11 13:59:05,673 [JRC:INFO] create instance
+2022-03-11 13:59:09,078 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,078 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,078 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,084 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,084 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,084 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 13:59:09,128 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 13:59:12,703 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 13:59:12,733 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 13:59:13,660 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 13:59:14,407 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:14,407 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 13:59:16,211 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:18,256 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:19,821 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:20,174 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:21,624 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:21,974 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:24,388 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:25,937 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:26,303 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:27,388 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:27,740 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:30,631 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:30,871 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:32,197 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:33,634 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:36,635 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:37,352 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:39,765 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:40,115 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:42,032 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:43,595 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:44,075 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:44,921 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:45,641 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 13:59:45,641 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 13:59:47,318 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:47,812 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:47,924 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:50,209 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:51,645 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:52,015 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:52,730 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:53,578 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:53,816 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:53,927 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:54,052 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:54,414 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:54,773 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:55,372 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:56,220 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 13:59:56,484 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:09:21,589 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:09:21,589 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:09:21,589 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:09:21,591 [RPL:INFO] create instance
+2022-03-11 14:09:21,591 [JRC:INFO] create instance
+2022-03-11 14:09:25,062 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,062 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,063 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,069 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,069 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,069 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:09:25,115 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:09:28,753 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:09:28,790 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:09:28,911 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:09:28,914 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 14:09:28,917 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:09:28,918 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 14:09:28,920 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:09:28,921 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] the slot 0 to be added is already in schedule
+2022-03-11 14:09:28,921 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:09:28,921 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 14:09:29,940 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:09:31,546 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 14:09:31,546 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 14:09:37,782 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:18:26,348 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:18:26,348 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:18:26,348 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:18:26,349 [RPL:INFO] create instance
+2022-03-11 14:18:26,349 [JRC:INFO] create instance
+2022-03-11 14:18:28,788 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,789 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,789 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,793 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,793 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,793 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:18:28,844 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:18:34,003 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:18:34,030 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:18:34,032 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:18:34,032 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:18:34,032 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:18:34,033 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] schedule overflown
+2022-03-11 14:18:34,033 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:18:34,035 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:18:34,947 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:18:34,973 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:18:34,973 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:18:34,973 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:18:34,974 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:18:34,974 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:18:34,976 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 1
+2022-03-11 14:18:35,069 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:19:18,852 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -7 ticks (code loc. 1)
+2022-03-11 14:19:18,933 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 11 ticks (code loc. 0)
+2022-03-11 14:19:18,934 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_BUSY at sixtop state WAIT_ADDRESPONSE
+2022-03-11 14:20:25,328 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 2)
+2022-03-11 14:21:23,694 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:22:47,448 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:22:47,448 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:22:47,448 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:22:47,450 [RPL:INFO] create instance
+2022-03-11 14:22:47,450 [JRC:INFO] create instance
+2022-03-11 14:22:50,933 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,934 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,934 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,937 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,938 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,938 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:22:50,982 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:22:59,121 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:22:59,140 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:22:59,141 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:22:59,141 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:22:59,155 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:22:59,157 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] schedule overflown
+2022-03-11 14:22:59,157 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:22:59,157 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:22:59,204 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:22:59,868 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:22:59,871 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:22:59,872 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:22:59,874 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:22:59,884 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:22:59,884 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:22:59,888 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 14:23:03,618 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:34,535 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:35,312 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:36,095 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:36,641 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:37,724 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:38,283 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:39,002 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:39,482 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:40,790 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:41,684 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:42,483 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:42,963 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:43,984 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:45,278 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:45,773 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:46,730 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:47,897 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:48,677 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:49,604 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:50,436 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:51,538 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:52,654 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:53,293 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:54,013 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:54,730 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:55,194 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:55,755 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:56,486 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:57,063 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:57,828 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:58,308 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:58,881 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:23:59,743 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:00,430 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:00,959 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:01,980 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:02,938 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:03,815 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:04,424 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:05,141 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:06,499 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:07,457 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:08,638 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:09,486 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:10,236 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:10,795 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:11,671 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:12,855 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:13,990 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:14,595 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:15,664 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:16,831 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:18,043 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:18,842 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:19,368 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:19,895 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:20,918 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:22,259 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:23,121 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:24,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:25,213 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:26,299 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:26,986 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:27,482 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:28,184 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:28,822 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:29,397 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:29,971 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:30,707 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:31,361 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:32,671 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:33,709 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:34,332 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:35,224 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:36,486 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:37,253 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:37,861 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:39,154 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:40,510 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:41,006 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:41,516 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:42,601 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:43,688 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:44,775 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:45,381 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:46,194 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:46,658 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:48,019 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:48,990 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:49,582 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:50,171 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:51,529 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:52,869 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:54,229 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:54,756 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:55,778 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:56,736 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:57,614 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:24:58,825 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:00,055 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:00,678 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:01,461 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:02,260 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:02,963 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:03,793 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:05,101 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:06,380 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:07,497 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:07,977 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:08,536 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] invalid packet frome radio, length 0 (code location 2)
+2022-03-11 14:25:08,584 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:09,558 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:10,085 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:10,644 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:11,138 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:12,209 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:13,391 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:13,950 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:15,115 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:16,249 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:17,319 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:18,260 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:18,947 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:19,713 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:21,069 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:21,549 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:22,381 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:23,418 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:23,898 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:24,808 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:25,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:25,894 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:26,803 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:27,729 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:28,608 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:29,279 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:30,348 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:31,513 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:32,713 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:33,302 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:34,532 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:35,250 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:36,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:36,815 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:37,437 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:38,588 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:39,786 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:40,599 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:41,717 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:42,851 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:43,329 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:44,016 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:44,640 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:45,486 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:46,635 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:47,818 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:48,727 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:49,335 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:50,325 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:51,572 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:52,927 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:54,267 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:54,924 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:55,769 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:57,046 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:57,782 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:58,644 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:25:59,569 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:00,496 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:01,213 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:01,773 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:02,348 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:03,355 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:04,489 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:04,983 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:05,701 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:06,437 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:07,187 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:07,937 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:08,767 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:09,342 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:10,157 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:10,698 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:11,371 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:12,648 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:13,798 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:14,388 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:15,713 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:16,864 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:17,933 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:18,812 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:19,993 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:21,270 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:22,469 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:23,507 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:24,114 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:24,592 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:25,039 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:25,996 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:26,796 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:27,611 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:28,312 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:29,141 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:29,829 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:31,138 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:32,384 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:33,279 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:33,917 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:34,667 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:35,161 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:36,489 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:37,461 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:38,788 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:39,250 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:40,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:40,831 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:41,423 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:42,094 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:42,714 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:43,769 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:44,280 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:44,743 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:45,861 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:47,138 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:47,762 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:48,640 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:49,519 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:50,638 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:51,562 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:52,184 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:52,983 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:54,211 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:55,266 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:56,223 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:56,720 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:57,710 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:58,556 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:26:59,546 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:00,536 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:01,670 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:02,707 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:03,459 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:04,785 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:05,263 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:06,078 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:06,653 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:07,403 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:07,930 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:08,680 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:09,829 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:10,358 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:11,253 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:12,224 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:12,927 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:13,614 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:14,413 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:15,276 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:16,088 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:17,319 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:18,292 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:19,042 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:20,145 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:20,961 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:21,407 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:22,302 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:22,892 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:24,042 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:25,335 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:25,813 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:26,405 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:27,028 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:27,986 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:28,448 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:29,183 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:30,206 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:31,483 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:32,138 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:33,223 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:34,213 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:35,171 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:35,811 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:37,134 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:38,013 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:39,275 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:40,170 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:41,207 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:42,118 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:43,220 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:44,321 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:45,375 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:45,917 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:46,779 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:47,259 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:47,865 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:49,223 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:50,036 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:51,075 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:52,002 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:53,325 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:54,380 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:54,986 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:56,200 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:56,743 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:57,447 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:58,038 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:58,707 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:27:59,331 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:00,592 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:01,230 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:02,510 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:03,786 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:05,142 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:05,621 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:06,578 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:07,203 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:08,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:09,312 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:10,588 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:11,178 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:12,361 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:13,621 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:14,372 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:15,665 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:16,177 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:16,799 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:17,710 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:18,730 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:19,257 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:20,552 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:21,046 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:21,588 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:22,292 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:23,345 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:23,842 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:24,976 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:25,470 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:26,826 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:27,993 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:28,936 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:30,036 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:30,868 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:32,240 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:33,470 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:33,980 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:34,970 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:35,881 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:36,842 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:38,020 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:39,299 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:39,809 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:40,911 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:41,821 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:42,634 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:43,674 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:44,153 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:45,157 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:46,325 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:46,914 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:47,601 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:48,336 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:49,661 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:50,828 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:51,976 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:53,032 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:53,684 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:54,229 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:54,994 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:56,128 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:56,832 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:57,934 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:58,427 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:28:59,418 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:00,664 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:01,989 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:03,234 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:03,871 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:04,703 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:05,614 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:06,411 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:07,035 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:07,802 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:08,678 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:09,318 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:09,861 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:10,500 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:11,650 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:13,007 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:13,694 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:14,907 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:15,753 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:17,032 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:18,357 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:19,474 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:20,799 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:22,046 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:22,844 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:23,546 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:24,823 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:25,367 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:26,132 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:27,266 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:28,130 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:28,592 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:29,088 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:29,838 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:30,476 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:31,084 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:32,217 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:33,382 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:34,181 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:35,473 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:36,224 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:37,423 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:38,507 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:39,003 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:39,720 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:40,392 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:40,855 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:41,638 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:42,388 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:43,171 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:43,632 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:44,256 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:45,535 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:46,397 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:46,891 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:48,105 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:48,967 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:49,638 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:50,469 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:51,729 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:52,288 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:53,118 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:53,724 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:54,332 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:55,148 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:55,865 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:57,048 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:58,150 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:29:58,996 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:00,049 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:00,959 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:01,453 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:01,964 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:02,779 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:04,040 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:04,759 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:05,733 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:06,947 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:08,082 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:08,992 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:10,094 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:11,306 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:12,489 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:13,270 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:14,005 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:15,154 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:15,665 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:16,815 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:17,805 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:19,068 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:20,043 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:20,569 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:21,157 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:22,438 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:23,282 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:24,289 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:25,104 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:25,582 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:26,141 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:26,779 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:27,450 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:28,280 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:29,621 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:30,884 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:31,490 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:31,970 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:32,622 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:33,230 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:34,397 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:35,161 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:35,753 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:36,377 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:37,638 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:38,148 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:39,282 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:40,049 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:41,325 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:41,805 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:42,954 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:43,562 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:44,920 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:45,398 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:46,611 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:47,078 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:48,305 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:48,974 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:49,566 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:50,316 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:51,387 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:52,009 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:52,934 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:53,526 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:54,756 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:55,937 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:56,448 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:57,566 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:58,732 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:30:59,674 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:00,217 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:01,063 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:02,148 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:02,628 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:03,969 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:04,799 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:05,630 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:06,173 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:07,417 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:08,424 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:09,319 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:10,516 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:11,282 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:12,575 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:13,167 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:14,283 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:14,938 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:15,960 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:16,743 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:17,477 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:18,084 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:18,548 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:19,042 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:19,618 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:20,687 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:21,694 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:22,763 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:23,496 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:24,375 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:25,046 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:25,878 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:26,979 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:28,032 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:28,831 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:29,661 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:30,779 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:31,275 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:32,326 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:32,855 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:33,589 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:34,612 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:35,319 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:35,808 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:36,480 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:37,372 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:38,108 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:38,746 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:39,401 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:40,184 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:40,776 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:41,621 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:42,342 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:42,930 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:43,762 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:44,862 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:45,405 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:46,155 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:47,448 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:48,759 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:49,828 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:50,930 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:31:51,618 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:31:51,664 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:17,388 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:34:17,388 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:34:17,388 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:34:17,388 [RPL:INFO] create instance
+2022-03-11 14:34:17,388 [JRC:INFO] create instance
+2022-03-11 14:34:20,865 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,865 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,867 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,871 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,871 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,871 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:34:20,914 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:34:24,846 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:34:24,874 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:34:24,875 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:34:24,875 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:34:24,875 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:34:24,875 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] schedule overflown
+2022-03-11 14:34:24,877 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:34:24,877 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:34:25,354 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:34:27,496 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:34:27,500 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:34:27,503 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:34:27,506 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:34:27,507 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:27,509 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:34:27,509 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 14:34:29,109 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:29,621 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:30,148 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:30,721 [ParserInfoErrorCritical:ERROR] c486 [SCHEDULE] schedule overflown
+2022-03-11 14:34:31,267 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:40:47,081 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:40:47,081 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:40:47,081 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:40:47,081 [RPL:INFO] create instance
+2022-03-11 14:40:47,081 [JRC:INFO] create instance
+2022-03-11 14:40:50,575 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,576 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,578 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,582 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,582 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,582 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:40:50,625 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:40:54,770 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:40:54,799 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] schedule overflown
+2022-03-11 14:40:54,799 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:40:54,801 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:40:55,151 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:41:07,266 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:41:08,466 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:41:08,864 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:41:10,861 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:41:12,461 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:41:17,240 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:43:59,592 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:43:59,594 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:43:59,594 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:43:59,594 [RPL:INFO] create instance
+2022-03-11 14:43:59,594 [JRC:INFO] create instance
+2022-03-11 14:44:02,098 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,098 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,098 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,102 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,102 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,104 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:44:02,145 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:44:06,003 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:44:06,023 [ParserInfoErrorCritical:ERROR] 5ea8 [SCHEDULE] schedule overflown
+2022-03-11 14:44:06,023 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:44:06,039 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] fail Test1, 1
+2022-03-11 14:44:06,677 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:44:15,101 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:15,470 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:15,948 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:17,994 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:18,345 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:19,434 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:21,111 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:22,309 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:25,441 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:26,752 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:27,471 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:28,558 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:29,644 [ParserInfoErrorCritical:ERROR] 5ea8 [ICMPv6RPL] no free packet buffer (code location 0)
+2022-03-11 14:44:30,436 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:57:17,161 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:57:17,161 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:57:17,161 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:57:17,161 [RPL:INFO] create instance
+2022-03-11 14:57:17,161 [JRC:INFO] create instance
+2022-03-11 14:57:20,647 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,648 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,648 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,653 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,653 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,654 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:57:20,696 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:57:23,818 [openVisualizerWeb:INFO] Toggle root status for moteid c486
+2022-03-11 14:57:23,848 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] fail Test1, 1
+2022-03-11 14:57:24,713 [RPL:INFO] registering DAGroot 00-12-4b-00-04-22-c4-86
+2022-03-11 14:58:04,559 [ParserInfoErrorCritical:INFO] 5ea8 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:58:04,559 [ParserInfoErrorCritical:INFO] 5ea8 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 14:58:06,204 [ParserInfoErrorCritical:ERROR] 5ea8 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 14:58:06,206 [ParserInfoErrorCritical:INFO] 5ea8 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 14:58:14,555 [openVisualizerApp:INFO] Closing OpenVisualizer
+2022-03-11 14:59:37,361 [openVisualizerApp:INFO] Initializing OpenVisualizerApp with options:
+	appdir      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    sim         = False
+    simCount    = 0
+    trace       = False
+    debug       = False
+    testbedmotes= False
+    usePageZero = False
+2022-03-11 14:59:37,361 [openVisualizerApp:INFO] Using external dirs:
+	conf     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    data     = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+    log      = C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\build\runui
+2022-03-11 14:59:37,361 [openVisualizerApp:INFO] sys.path:
+	C:\Users\Lee\Desktop\Git\OpenWSN\coap
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer\bin
+	C:\Users\Lee\Desktop\Git\OpenWSN\openvisualizer
+	C:\Windows\SYSTEM32\python27.zip
+	C:\Python27\DLLs
+	C:\Python27\lib
+	C:\Python27\lib\plat-win
+	C:\Python27\lib\lib-tk
+	C:\Python27
+	C:\Python27\lib\site-packages
+	C:\Python27\lib\site-packages\win32
+	C:\Python27\lib\site-packages\win32\lib
+	C:\Python27\lib\site-packages\Pythonwin
+2022-03-11 14:59:37,361 [RPL:INFO] create instance
+2022-03-11 14:59:37,361 [JRC:INFO] create instance
+2022-03-11 14:59:39,884 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,884 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,885 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,890 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,890 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,890 [ParserInfoErrorCritical:INFO] create instance
+2022-03-11 14:59:39,934 [openVisualizerWeb:INFO] Creating OpenVisualizerWeb
+2022-03-11 14:59:49,385 [openVisualizerWeb:INFO] Toggle root status for moteid 5ea8
+2022-03-11 14:59:49,453 [RPL:INFO] registering DAGroot 00-12-4b-00-04-30-5e-a8
+2022-03-11 14:59:50,638 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=0 arg2=0
+2022-03-11 14:59:50,641 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=1 arg2=0
+2022-03-11 14:59:50,644 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=2 arg2=0
+2022-03-11 14:59:50,648 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=3 arg2=0
+2022-03-11 14:59:50,650 [ParserInfoErrorCritical:INFO] c486 [CEXAMPLE] unknown error 0 arg1=4 arg2=0
+2022-03-11 14:59:50,655 [ParserInfoErrorCritical:INFO] c486 [IEEE802154E] synchronized at slotOffset 0
+2022-03-11 15:00:00,440 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: 6 ticks (code loc. 0)
+2022-03-11 15:00:00,441 [ParserInfoErrorCritical:INFO] c486 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+2022-03-11 15:00:00,664 [ParserInfoErrorCritical:ERROR] c486 [IEEE802154E] large timeCorr.: -8 ticks (code loc. 1)
+2022-03-11 15:00:30,138 [openVisualizerApp:INFO] Closing OpenVisualizer

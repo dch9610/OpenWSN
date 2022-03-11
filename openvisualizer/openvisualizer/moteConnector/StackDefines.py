@@ -123,7 +123,7 @@ errorDescriptions = {
   72: "OSCOAP replay protection failed",
   73: "OSCOAP decryption and tag verification failed",
   74: "Aborted join process (code location {0})",
-  75: "fail Test"
+  75: "fail Test{0}, {1}"
 }
 
 sixtop_returncode = {
