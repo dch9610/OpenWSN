@@ -2487,8 +2487,8 @@ bool isValidEbFormat(OpenQueueEntry_t* pkt, uint16_t* lenIE){
                         openserial_printInfo(
                                 COMPONENT_CEXAMPLE,
                                 0,
-                                *((uint8_t*)(pkt->payload+ptr+5+5*i)),
-                                *((uint8_t*)(pkt->payload+ptr+5+5*i+2))
+                                slotoffset,
+                                1
                         );
                         
                     }

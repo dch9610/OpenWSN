@@ -56,6 +56,7 @@ void openstack_init(void) {
    openrandom_init();
 
    //-- 02a-TSCH
+   
 //   adaptive_sync_init();
    ieee154e_init();
    //-- 02b-RES

@@ -38,10 +38,11 @@ void msf_housekeeping(void);
 //=========================== public ==========================================
 
 void msf_init(void) {
-
     open_addr_t     temp_neighbor;
+    slotOffset_t    start_slotOffset;
+    slotOffset_t    running_slotOffset;
 
-    memset(&msf_vars,0,sizeof(msf_vars_t));
+    memset(&msf_vars,0,sizeof(msf_vars_t)); 
     msf_vars.numAppPacketsPerSlotFrame = 0;
     sixtop_setSFcallback(
         (sixtop_sf_getsfid)msf_getsfid,
@@ -50,15 +51,41 @@ void msf_init(void) {
         (sixtop_sf_handle_callback)msf_handleRCError
     );
 
-    memset(&temp_neighbor,0,sizeof(temp_neighbor));
-    temp_neighbor.type             = ADDR_ANYCAST;
+    start_slotOffset = SCHEDULE_MINIMAL_6TISCH_SLOTOFFSET_TEST;
+    memset(&temp_neighbor,0,sizeof(temp_neighbor)); 
+    temp_neighbor.type             = ADDR_ANYCAST; // ANYCAST
+    
     schedule_addActiveSlot(
-        msf_hashFunction_getSlotoffset(256*idmanager_getMyID(ADDR_64B)->addr_64b[6]+idmanager_getMyID(ADDR_64B)->addr_64b[7]),     // slot offset
-        CELLTYPE_TXRX,                        // type of slot
-        FALSE,                                // shared?
-        msf_hashFunction_getChanneloffset(256*idmanager_getMyID(ADDR_64B)->addr_64b[6]+idmanager_getMyID(ADDR_64B)->addr_64b[7]),  // channel offset
-        &temp_neighbor                        // neighbor
+        1,    // slot offset
+        CELLTYPE_TXRX, // type of slot
+        FALSE,          // shared?
+        6, // channel offset
+        &temp_neighbor // neighbor
     );
+    for(running_slotOffset=start_slotOffset; running_slotOffset<start_slotOffset+3; running_slotOffset++){
+        schedule_addActiveSlot(
+        running_slotOffset,    // slot offset
+        CELLTYPE_TXRX, // type of slot
+        TRUE,          // shared?
+        SCHEDULE_MINIMAL_6TISCH_CHANNELOFFSET_TEST, // channel offset
+        &temp_neighbor // neighbor
+    );
+    }
+    
+    // schedule_addActiveSlot(
+    //     msf_hashFunction_getSlotoffset(256*idmanager_getMyID(ADDR_64B)->addr_64b[6]+idmanager_getMyID(ADDR_64B)->addr_64b[7]),     // slot offset
+    //     CELLTYPE_TXRX,                        // type of slot
+    //     FALSE,                                // shared?
+    //     msf_hashFunction_getChanneloffset(256*idmanager_getMyID(ADDR_64B)->addr_64b[6]+idmanager_getMyID(ADDR_64B)->addr_64b[7]),  // channel offset
+    //     &temp_neighbor                        // neighbor
+    // );
+
+    // start_slotOffset = SCHEDULE_MINIMAL_6TISCH_SLOTOFFSET_TEST;
+
+    // for(test_running_slotoffset=test_start_slotoffset; test_running_slotoffset<test_start_slotoffset+2; test_running_slotoffset++){
+    
+    // }
+    
 
     msf_vars.housekeepingTimerId = opentimers_create(TIMER_GENERAL_PURPOSE, TASKPRIO_MSF);
     msf_vars.housekeepingPeriod  = HOUSEKEEPING_PERIOD;
@@ -70,8 +97,8 @@ void msf_init(void) {
         msf_timer_housekeeping_cb
     );
     msf_vars.waitretryTimerId    = opentimers_create(TIMER_GENERAL_PURPOSE, TASKPRIO_MSF);
-}
 
+}
 // called by schedule
 void    msf_updateCellsPassed(open_addr_t* neighbor){
 #ifdef MSF_ADAPTING_TO_TRAFFIC
@@ -361,6 +388,7 @@ bool msf_candidateRemoveCellList(
     }
 }
 
+
 void msf_housekeeping(void){
 
     open_addr_t    parentNeighbor;
@@ -412,8 +440,8 @@ void msf_housekeeping(void){
     if (schedule_hasAutonomousTxRxCellUnicast(&parentNeighbor)==FALSE){
 
         moteId          = 256*parentNeighbor.addr_64b[6]+parentNeighbor.addr_64b[7];
-        slotoffset      = msf_hashFunction_getSlotoffset(moteId);
-        channeloffset   = msf_hashFunction_getChanneloffset(moteId);
+        slotoffset      = 1;                          //msf_hashFunction_getSlotoffset(moteId);
+        channeloffset   = 6;                          //msf_hashFunction_getChanneloffset(moteId);
 
         // the neighbor is selected as parent
         if (
@@ -424,6 +452,7 @@ void msf_housekeeping(void){
         } else {
             if (schedule_isSlotOffsetAvailable(slotoffset)){
                 // reserve the autonomous cell to this neighbor
+                
                 schedule_addActiveSlot(
                     slotoffset,                                 // slot offset
                     CELLTYPE_TXRX,                              // type of slot
@@ -431,6 +460,8 @@ void msf_housekeeping(void){
                     channeloffset,                              // channel offset
                     &(parentNeighbor)                           // neighbor
                 );
+                
+                
             } else {
                 // the autonomous cell has been occupied by other slot
                 // trigger a 6P relocate packet to relocate that slot
